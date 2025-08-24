@@ -1,5 +1,5 @@
 <?php
-// about.php
+//session_start();
 require_once 'config/database.php';
 ?>
 
@@ -9,7 +9,8 @@ require_once 'config/database.php';
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us - Shoppa</title>
-    <link rel="stylesheet" href="css/about.css">
+    <link rel="stylesheet" href="/shoppa-main/css/global.css">
+    <link rel="stylesheet" href="/shoppa-main/css/about.css">
 </head>
 <body>
     <?php include 'includes/header.php'; ?>
