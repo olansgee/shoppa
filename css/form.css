@@ -1,0 +1,14 @@
+label {
+      display: block;
+      margin-top: 10px;
+    }
+    input[type="text"], input[type="tel"] {
+      width: 300px;
+      padding: 8px;
+    }
+    #successMessage {
+      color: green;
+      margin-top: 15px;
+      display: none;
+    }
+    

@@ -1,0 +1,25 @@
+shoppa/
+├── index.php (homepage)
+├── config/
+│   └── database.php
+├── includes/
+│   ├── header.php
+│   ├── footer.php
+│   └── auth_check.php
+├── products/
+│   ├── explore.php
+│   └── product.php
+├── auth/
+│   ├── login.php
+│   ├── register.php
+│   └── logout.php
+├── cart/
+│   ├── cart.php
+│   └── checkout.php
+├── admin/
+│   ├── index.php
+│   ├── products.php
+│   └── orders.php
+├── images/ (product images)
+├── css/ (all CSS files)
+└── js/ (JavaScript files)

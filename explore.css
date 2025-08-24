@@ -1,0 +1,241 @@
+.varsityimages {
+    display: flex;
+    align-items: center;
+}
+.varsitytext h2 {
+    font-family: Satoshi;
+font-weight: 700;
+font-style: Bold;
+font-size: 32px;
+line-height: 100%;
+letter-spacing: 0%;
+ color:  #6E0202;
+}
+.varsitytext {
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+.items{
+    display: flex;
+    gap: 20px;
+}
+.headimage {
+    background-color: #C50000;
+    padding-left: 2rem;
+}
+.headshoppa {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    /* gap: 10px; */
+    width: 100%;
+    height: 100px;
+    background-color: #6E0202;
+    gap: 20px;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    justify-content: space-evenly;
+}
+.cart {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    /* width: 100%; */
+    height: 100px;
+    /* background-color: #FFFFFF; */
+    gap: 0.5rem;
+    margin-left: 2rem;
+}
+.carttext {
+    font-family: Satoshi;
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: #FFFFFF;
+}
+.About {
+    font-family: Satoshi;
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+/* leading-trim: NONE; */
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: #FFFFFF;
+}
+.Login {
+    font-family: Satoshi;
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+/* leading-trim: NONE; */
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: #FFFFFF;
+}
+.Register {
+    font-family: Satoshi;
+font-weight: 500;
+font-style: Medium;
+font-size: 24px;
+/* leading-trim: NONE; */
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+color: #FFFFFF;
+}
+a:link {
+    text-decoration: none;
+    color: white;
+}
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+a:hover {
+    text-decoration: underline;
+    color: red;
+}
+a:active {
+    text-decoration: none;
+    color: red;
+}
+a{
+    font-size: 20px;
+    color: #FFFFFF;
+    text-decoration: none;
+    width:100%
+}
+.shoppasearch {
+    width: 800;
+height: 59.69566345214844;
+border-radius: 50px;
+/* angle: 0 deg; */
+opacity: 1;
+top: 49.44px;
+left: 430.2px;
+border-width: 3px;
+gap: 10px;
+padding-top: 14px;
+padding-right: 109px;
+padding-bottom: 14px;
+padding-left: 32px;
+border: 3px solid #FCFCFC;
+background: #FCFCFC4D;
+}
+.Search button {
+    font-family: Satoshi;
+font-weight: 700;
+font-style: Bold;
+font-size: 24px;
+color: #FFFFFF;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+ /* width: 77;
+height: 32; */
+opacity: 1;
+border: none;
+background: transparent;
+}
+.Search {
+    width: 200;
+height: 59.69566345214844;
+border-radius: 50px;
+opacity: 1;
+top: 49.44px;
+left: 987px;
+padding-top: 14px;
+padding-right: 44px;
+padding-bottom: 14px;
+padding-left: 44px;
+gap: 10px;
+background: #C50000;
+box-shadow: 0px 4px 58.1px 0px #00000040;
+
+}
+#searchInput {
+    width: 100%;
+    height: 100%;
+    border: none;
+    background: transparent;
+    outline: none;
+    font-family: Satoshi, sans-serif;
+    font-size: 16px;
+}
+
+
+.categories {
+    background: #C50000;
+   /* width: 290; */
+/* height: 885.1678466796875; */
+/* angle: 0 deg; */
+opacity: 1;
+/* top: 231.83px; */
+padding-top: 3rem;
+list-style: none;
+}
+.categories li {
+    margin-top: 2rem;
+    margin-right: 4rem;
+    margin-left: 2rem;
+}
+.categories ol {
+    font-family: Satoshi;
+font-weight: 1000;
+font-style: Black;
+font-size: 24px;
+line-height: 100%;
+letter-spacing: 0%;
+    color:  #FFFFFF;
+width: 100%;
+margin-left: 1rem;
+}
+
+.page {
+    width: 168.85572814941406;
+height: 285.4554443359375;
+opacity: 1;
+left: 10px;
+gap: 39px;
+}
+.pagetext h3 {
+  font-family: Satoshi;
+font-weight: 700;
+font-style: Bold;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+ text-align: center;
+ margin-top: 1rem;
+ width: 80%;
+ margin-left: -0.5rem;
+}
+.pagetext p {
+    font-family: Satoshi;
+font-weight: 400;
+font-style: Regular;
+font-size: 20px;
+line-height: 100%;
+letter-spacing: 0%;
+text-align: center;
+margin-left: -3rem;
+
+}
+.headimage {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Satoshi, sans-serif;
+}
