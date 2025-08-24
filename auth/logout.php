@@ -18,6 +18,6 @@ if (ini_get("session.use_cookies")) {
 session_destroy();
 
 // Redirect to homepage with success message
-header("Location: ../index.php?logout=success");
+header("Location: /index.php?logout=success");
 exit();
 ?>
